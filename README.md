@@ -91,11 +91,23 @@ Key tables include:
 - Warehouse Picking Accuracy
 - Average Processing Hours
 
-## Dashboards
+## Dashboard Screenshots
 
-Screenshots of the report pages are available in the `screenshots/` folder.
+### Milestone 1: Sales & Inventory Movement
+![Milestone 1 Dashboard](screenshots/milestone1.png)
 
-The complete interactive report can be explored by opening the Power BI file in Microsoft Power BI Desktop, subject to the availability of the required data sources.
+### Milestone 2: Inventory & Delivery Analysis
+![Inventory Analysis](screenshots/milestone2_page1.png)
+![Delivery Analysis](screenshots/milestone2_page2.png)
+![Trend & Variance Analysis](screenshots/milestone2_page3.png)
+
+### Milestone 3: Supplier & Transportation Analysis
+![Milestone 3 Dashboard](screenshots/milestone3.png)
+
+### Milestone 4: Warehouse Efficiency & Executive Overview
+![Warehouse Efficiency](screenshots/milestone4_page1.png)
+![Executive Overview](screenshots/milestone4_page2.png)
+![Dashboard Performance](screenshots/milestone4_page3.png)
 
 ## Important Assumptions and Limitations
 
