@@ -466,6 +466,3 @@ DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS:\
 https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 
 ------------------------------------------------------------------------
-
-*If a measure was renamed or changed in the final Power BI file, update
-this document to match the published report.*
